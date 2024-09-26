@@ -37,3 +37,7 @@ ol {
 ul li {
     display: inline;
 }
+
+.nav {
+    padding-left: 0;
+}

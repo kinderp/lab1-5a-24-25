@@ -34,10 +34,6 @@ ol {
     padding: 0 0 0 50px;
 }
 
-ul li {
-    display: inline;
-}
-
 .nav {
     padding-left: 0;
 }
@@ -45,4 +41,8 @@ ul li {
 .nav a {
     color: #0000af;
     text-decoration: none;
+}
+
+.nav li {
+    display: inline;
 }

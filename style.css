@@ -33,3 +33,7 @@ ul {
 ol {
     padding: 0 0 0 50px;
 }
+
+ul li {
+    display: inline;
+}

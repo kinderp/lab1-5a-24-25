@@ -73,6 +73,15 @@ body {
 
 .header {
     padding: 10px 10px 10px 10px;
+    background-color: #b56663;
+}
+
+.header a {
+    color: #ffffff;
+}
+
+.header h1 {
+    color: #ffffff;
 }
 
 .main-content {

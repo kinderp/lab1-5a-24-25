@@ -61,3 +61,8 @@ ol {
 .recipes h3 {
     border-bottom: 0px;
 }
+
+.recipes a {
+    color: #7facaa;
+    text-decoration: none;
+}

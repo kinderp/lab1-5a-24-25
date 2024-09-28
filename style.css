@@ -46,3 +46,8 @@ ol {
 .nav li {
     display: inline;
 }
+
+.recipes {
+    list-style-type: none;
+    padding: 0;
+}

@@ -51,3 +51,8 @@ ol {
     list-style-type: none;
     padding: 0;
 }
+
+.recipes li {
+    border: 1px solid #b56663;
+    padding-left: 15px;
+}

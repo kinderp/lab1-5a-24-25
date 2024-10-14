@@ -68,6 +68,12 @@ ol {
     text-decoration: none;
 }
 
+.recipes img {
+    float: left;
+    padding-right: 10px;
+    width: 17%;
+}
+
 body {
     padding: 0 0 0 0;
 }

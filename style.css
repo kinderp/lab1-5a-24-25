@@ -132,3 +132,17 @@ body {
 .photos img {
     width: 30%;
 }
+
+.featured-image {
+    width: 500px;
+    height: 300px;
+    background: #ffffff url(images/featured-image.jpg) top left no-repeat;
+}
+
+.featured-image h3 {
+    margin: 0;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 5px 0 5px 15px;
+    text-transform: uppercase;
+}

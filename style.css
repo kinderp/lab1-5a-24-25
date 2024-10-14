@@ -75,6 +75,7 @@ body {
 .header {
     padding: 10px 10px 10px 10px;
     background-color: #b56663;
+    /*text-align: center;*/
 }
 
 .header a {
@@ -84,6 +85,12 @@ body {
 .header h1 {
     color: #ffffff;
     text-align: center;
+}
+
+.header img {
+    width: 10%;
+    display: block;
+    margin: 0 auto 0 auto;
 }
 
 .main-content {

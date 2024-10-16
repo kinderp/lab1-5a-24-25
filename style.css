@@ -124,6 +124,10 @@ body {
     margin: 30px auto 0 auto;
 }
 
+.main-content p {
+    line-height: 16px;
+}
+
 .photos {
     list-style-type: none;
     padding: 0;
